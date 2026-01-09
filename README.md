@@ -1,6 +1,6 @@
 ## 🍷🍷🍷
 
-#1 Variational Inference Researcher
+<!-- #1 Variational Inference Researcher -->
 
 <!--
 **sistines/sistines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
